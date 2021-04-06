@@ -1,0 +1,8 @@
+{
+    "name": "PhysicsAndAnimation",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "osman",
+    "contributors": [],
+    "dependencies": {}
+}
